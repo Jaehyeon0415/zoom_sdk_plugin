@@ -27,7 +27,7 @@ class ZoomController {
   }
 
   /// Switch local user camera on/off
-  Future<void> switchCameraState() async {
+  Future<void> toggleCamera() async {
     return await ZoomPlatform.instance.toggleCamera();
   }
 
