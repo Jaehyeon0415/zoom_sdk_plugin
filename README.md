@@ -12,10 +12,11 @@ A flutter customized UI Zoom SDK plugin
 - [x] Zoom init
 
 - [x] Join meeting
+  - [ ] public/private room
 
 - [x] Custom UI
   - [x] Get remote user video
-  - [x] Get local user video 
+  - [x] Get local user video
 
 - [x] Supported iPad
 
@@ -23,9 +24,10 @@ A flutter customized UI Zoom SDK plugin
 
   - [x] Leave meeting
   - [x] Switch camera front/back
-  - [x] Switch camera on/off
+  - [x] Toggle camera on/off
   - [ ] Mirror video
   - [ ] User video zoom in/ zoom out
+  - [ ] Toggle Audio on/off
 
 - [ ] Supported Android
 
